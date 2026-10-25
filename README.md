@@ -34,8 +34,8 @@
   </tr>
   <tr>
     <td width="100%" colspan="2" valign="top">
-      <h3>⛏️ MC 模组制作者 <i>(纯云 / 启动次数 < 50 / 只会写 Mod)</i></h3>
-      <p>对原版游戏机制其实不太熟，主打一个“云”。虽然游戏启动次数屈指可数，但会给 Minecraft 写模组（Mod），靠写代码来弥补实操的菜。</p>
+      <h3>⛏️ MC 模组制作者 <i>(纯云 / 启动次数极少)</i></h3>
+      <p>对原版游戏机制其实不太熟，主打一个“云”。虽然启动次数屈指可数，但会写一点点Mod。</p>
     </td>
   </tr>
 </table>
@@ -52,7 +52,7 @@
       <td width="33%" style="padding: 20px; border: 1px solid #00E5FF; border-radius: 8px; background: rgba(0,229,255,0.05);">
         <h3 align="center">🔓 纯公开</h3>
         <p align="center"><b>Open Source / Copy Freely</b></p>
-        <p>不搞闭源黑盒，所有代码纯公开。<br/>你可以随意抄袭、借鉴、魔改，拿走即用，觉得好用就行。</p>
+        <p>不搞闭源黑盒，所有代码纯公开(Github,Notepad.cc,Note.ms)。<br/>你可以随意抄袭、借鉴、魔改，拿走即用，觉得好用就行。</p>
       </td>
       <td width="33%" style="padding: 20px; border: 1px solid #0052D9; border-radius: 8px; background: rgba(0,82,217,0.05);">
         <h3 align="center">⚖️ 纯平等</h3>
@@ -106,9 +106,9 @@
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚔️ 角色对战</h3>
+      <h3>⚔️ GvsG</h3>
       <p><b>Type: 得意之作</b></p>
-      <p>一个纯 HTML/JS 写的小游戏，还原了Spenn和SimulationMinigame的大乱斗。</p>
+      <p>一个纯 HTML/JS 写的模拟器，还原了Spenn和SimulationMinigame的大乱斗。</p>
     </td>
     <td width="50%" valign="top">
       <h3>🃏 皇帝牌</h3>
